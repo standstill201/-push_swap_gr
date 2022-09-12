@@ -1,0 +1,12 @@
+{
+	"files.associations": {
+		"libft.h": "c",
+		"push_swap.h": "c",
+		"push_swap_struct.h": "c",
+		"unistd.h": "c",
+		"ratio": "c",
+		"chrono": "c",
+		"algorithm": "c",
+		"limits": "c"
+	}
+}
